@@ -47,5 +47,4 @@ Sau khi sửa, viết thêm, hay xóa file ở trong Repo local. Khi muốn Sync
 - B3: Đặt viết vài từ ngắn ngọn vào ô Summary, biên tập vì lý do gì VD: sửa lỗi gì, thêm bớt gì,...
 - B4: Bấm Sync
 - Cuối cùng là Commit to master
-- 5: Publish để công khai bài
-
+- 5: Số thay đổi
