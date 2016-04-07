@@ -36,4 +36,16 @@ Sau khi biên soạn xong xuôi, chúng ta Publish lên git như sau:
 - B5.1: Chọn tài khoản mà chúng ta muốn up lên
 - B5.2: Bấm vào Publish để hoàn tất
 
+##### Sửa Repo
+
+Sau khi sửa, viết thêm, hay xóa file ở trong Repo local. Khi muốn Sync với thư mục trên github, chúng ta chọn Repo vừa thay đổi và Sync dữ liệu. Cụ thể như sau:
+
+<img src="http://i.imgur.com/QahNkPs.png" /> 
+
+- B1: Bấm vào tên Repo cần Sync
+- B2: Bấm vào thẻ Changes
+- B3: Đặt viết vài từ ngắn ngọn vào ô Summary, biên tập vì lý do gì VD: sửa lỗi gì, thêm bớt gì,...
+- B4: Bấm Sync
+- Cuối cùng là Commit to master
+- 5: Publish để công khai bài
 
