@@ -47,4 +47,16 @@ Sau khi sửa, viết thêm, hay xóa file ở trong Repo local. Khi muốn Sync
 - B3: Đặt viết vài từ ngắn ngọn vào ô Summary, biên tập vì lý do gì VD: sửa lỗi gì, thêm bớt gì,...
 - B4: Bấm Sync
 - Cuối cùng là Commit to master
-- 5: Số thay đổi
+- 5: Số thay đổi trong file
+
+#### 2. Clone một Repository từ github về local
+
+<img src="http://i.imgur.com/cBMiTTQ.png" />
+
+Khởi động, git-GUI ta sẽ thấy như hình:
+
+- B1: Bấm vào icon "+"
+- B2: Chọn tài khoản
+- B3: Chọn tab *Clone* để tải một repo về local
+- B4: Chọn repo cần Clone
+- B5: Bấm Clone **tên-repo**
