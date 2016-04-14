@@ -60,3 +60,20 @@ Khởi động, git-GUI ta sẽ thấy như hình:
 - B3: Chọn tab *Clone* để tải một repo về local
 - B4: Chọn repo cần Clone
 - B5: Bấm Clone **tên-repo**
+
+
+####  3. Cách nhiều người up chung một Repo
+
+- B1: Fork repo chung về github của mình
+
+<img src="http://i.imgur.com/zGbBtiO.png" />
+
+- B2: Vào git-GUI và Clone về local
+
+<img src="http://i.imgur.com/dpi0cTI.png" />
+
+- B3: Chỉnh sửa file ở local và Pull request lên Admin quản lý gói
+
+<img src="http://i.imgur.com/ABaDDXi.png" />
+
+Continue...
